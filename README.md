@@ -1,1 +1,1 @@
-# AdaHack_Financial_Intelligence_Challenge
+# AdaHack_Challenge
